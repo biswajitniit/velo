@@ -1,0 +1,1 @@
+@include('subscriber.includes.sidebar')
